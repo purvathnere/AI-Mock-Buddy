@@ -1,4 +1,4 @@
-![Login Screen](./assets/login-screen.png)
+![Login Screen](https://github.com/purvathnere/AI-Mock-Buddy/blob/master/screen.PNG)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
